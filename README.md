@@ -4,3 +4,5 @@ Valor total do pedido;
 Descrição dos itens;
 Forma de pagamento;
 Informações do cliente;
+
+https://brunocco.github.io/sorveteriaPedidos/
